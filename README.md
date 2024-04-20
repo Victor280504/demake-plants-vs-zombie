@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="data/cereja.png" alt="Descrição da Imagem"/>
+  # <img src="data/cereja.png" alt="Descrição da Imagem"/>
 </p>
-# 
 # Demake do Jogo para Atari
 
 Este projeto é um demake de um jogo moderno para o Atari. Foi desenvolvido usando a linguagem de programação Processing.
