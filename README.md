@@ -1,5 +1,5 @@
 <p align="center">
-  # <img src="data/cereja.png" alt="Descrição da Imagem"/>
+  <img src="data/cereja.png" alt="Descrição da Imagem"/>
 </p>
 # Demake do Jogo para Atari
 
